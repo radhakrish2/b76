@@ -1,4 +1,4 @@
-
+//Program to demonstrate initialization block, static block
 public class A {
 
 	//initialization block
