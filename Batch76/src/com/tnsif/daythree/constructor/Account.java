@@ -7,8 +7,8 @@ public class Account {
 	private double balane;
 	private int pin;
 	
-	//Default Constructor
-	public Account() {
+	//No-Argument Constructor
+	private Account() {
 		
 	}
 
